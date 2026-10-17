@@ -1,0 +1,25 @@
+AAAI-27 shared workshop directory maintenance
+
+Public page: https://chongyuzhu.com/dorl/27AAAIworkshop/
+Repository: ChongyuZhu/chongyuzhu.github.io, branch main
+Shared source of truth: dorl/27AAAIworkshop/data.json
+Renderer: tools/render_aaai27.py
+Rendered page: dorl/27AAAIworkshop/index.html
+
+Authentication: use the existing local HTTPS Git login for account ChongyuZhu through Windows Git Credential Manager. The connector's write endpoints previously returned 403; do not repeat those failed connector writes. Use the remote URL https://ChongyuZhu@github.com/ChongyuZhu/chongyuzhu.github.io.git to select the intended account. Credentials stay in the system credential manager, never in this repository, JSON, source files, command arguments, or logs.
+
+Use the one existing chat automation, every two days at 09:00 America/Toronto. Do not add another scheduler or another website. This is a local Codex chat automation: its computer and app must be available at run time.
+
+Before any crawl, read the latest main branch and shared data.json. If its successful checkedDate is fewer than two Toronto calendar days old, skip the run unless the user explicitly requests a refresh. Cache each normalized URL within a run so the same source is not fetched repeatedly. Do not recreate the layout or repeat initial setup.
+
+Read the current official AAAI-27 program list to discover every named workshop. Follow each workshop's current-edition website and author-facing CFP, including browser rendering where required. Recheck ALL workshops, not just Unknown ones. Preserve stable IDs; record additions and removals from the official list and update officialMentionedCount without inventing unnamed workshops.
+
+Main submission and notification fields accept only ISO dates explicitly verified on the current workshop website. Missing, TBD/TBA/Unknown, inaccessible, old-edition, or AAAI-reference-only dates remain JSON null and render as Unknown. Never fill from the general November 20 / December 2 timetable, another workshop, registration, reviewer, or camera-ready dates. Keep reference-only dates in source notes. If verification is lost, retain the last verified values separately as history, not as current main dates. Keep date/time provenance links and brief supporting text.
+
+Maintain submissionTime, submissionZone, notificationTime, and notificationZone only when explicitly stated; otherwise use an empty time and Unknown zone. Separate fast-track dates from the regular columns. A fast-track notification must be separately stated; do not infer it from a regular-track notification. Flag conflicting sources and retain the conflicting dates in notes.
+
+Update checkedDate and each record's checked only after the full pass. Never describe a failed or partial pass as a successful full check. Update data first, then run the existing renderer. Its count statistics and date filters are generated from data. Validate unique workshops, source links, dates/Unknown fields, and the rendered row count.
+
+Publish the changed shared JSON and its rendered HTML together in one commit using the latest main tree and an expected-head check. Do not force-push. Keep the homepage, Cloudflare DNS, CNAME, and unrelated files unchanged during routine refreshes. If another writer changed main, read that head and merge only these scoped changes before retrying.
+
+Verify the GitHub Pages deployment and public URL after publication. Announce only meaningful date/list changes, Unknown-to-known transitions, failures, or required user action; otherwise stay quiet. The live page is the shared result for coworkers, who do not need to repeat the crawl.
