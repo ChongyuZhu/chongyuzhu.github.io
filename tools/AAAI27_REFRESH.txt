@@ -1,10 +1,12 @@
 AAAI-27 shared workshop directory maintenance
 
-Public page: https://chongyuzhu.com/dorl/27AAAIworkshop/
+Unlisted lab page: https://chongyuzhu.com/dorl/27AAAIworkshop/
 Repository: ChongyuZhu/chongyuzhu.github.io, branch main
 Shared source of truth: dorl/27AAAIworkshop/data.json
 Renderer: tools/render_aaai27.py
 Rendered page: dorl/27AAAIworkshop/index.html
+
+Audience and discoverability: this directory is an unlisted internal lab resource. Never add links to it from the public homepage, navigation, news, sitemap, feeds, or public resource listings. Preserve the robots noindex/nofollow/noarchive and no-referrer metadata in the renderer and generated page. The existing URL must remain available to coworkers, but an unlisted URL is not access control. Do not announce or promote it publicly.
 
 Authentication: use the existing local HTTPS Git login for account ChongyuZhu through Windows Git Credential Manager. The connector's write endpoints previously returned 403; do not repeat those failed connector writes. Use the remote URL https://ChongyuZhu@github.com/ChongyuZhu/chongyuzhu.github.io.git to select the intended account. Credentials stay in the system credential manager, never in this repository, JSON, source files, command arguments, or logs.
 

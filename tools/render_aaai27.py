@@ -83,6 +83,7 @@ EXCEPTIONS = ''.join(f'<a href="#workshops" class="exception-item" data-focus="{
 TEMPLATE = r'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="description" content="All 45 named AAAI-27 workshops currently listed by AAAI, with paper submission deadlines, decision dates, source links, and discrepancies. Checked October 17, 2026.">
+<meta name="robots" content="noindex, nofollow, noarchive"><meta name="referrer" content="no-referrer">
 <link rel="canonical" href="https://chongyuzhu.com/dorl/27AAAIworkshop/"><title>AAAI-27 Workshop Deadlines | October 17, 2026</title>
 <style>
 :root{--ink:#172c3e;--muted:#60717b;--bg:#f6f6f1;--paper:#fff;--line:#dce2df;--teal:#0d605f;--teal-light:#e7f2ee;--coral:#b9432b;--coral-light:#fff0e9;--gold:#8b5c12;--gold-light:#fff6df;--blue-light:#e9f0fc;--blue:#365b91}
