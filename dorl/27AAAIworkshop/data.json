@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedDate": "2026-10-19",
+  "checkedDate": "2026-10-21",
   "officialMentionedCount": 47,
   "refreshIntervalDays": 2,
   "timezone": "America/Toronto",
@@ -31,7 +31,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -52,7 +52,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -95,7 +95,7 @@
       "exception": false,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -116,7 +116,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed_with_source_mismatch",
         "sources": [
           {
@@ -155,7 +155,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -176,7 +176,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -219,11 +219,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -254,7 +254,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -275,7 +275,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -308,11 +308,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -345,11 +345,11 @@
       "exception": false,
       "incomplete": true,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "dates_unpublished",
         "sources": [
           {
@@ -392,11 +392,11 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -436,11 +436,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -486,7 +486,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -507,7 +507,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -538,18 +538,18 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://dimigenais-aaai2027.netlify.app/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "CALL FOR PAPERS | Submission deadline | November 20, 2026 (AoE) | Notification"
+            "excerpt": "THE CALL FOR PAPERS IS OPEN! | Submission deadline | November 20, 2026 (AoE) | Notification"
           }
         ]
       }
@@ -580,7 +580,7 @@
       "exception": false,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC-12)",
       "shortTitle": "Eval AI Scientists",
@@ -602,7 +602,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -633,7 +633,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC-12)",
       "history": [
@@ -654,7 +654,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -687,11 +687,11 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "23:59",
       "notificationZone": "PST (UTC-8)",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -741,11 +741,11 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed_with_source_mismatch",
         "sources": [
           {
@@ -781,11 +781,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -816,11 +816,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -853,7 +853,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -874,7 +874,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -909,11 +909,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -946,7 +946,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -967,7 +967,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1017,11 +1017,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1054,18 +1054,18 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://llm-agents-under-threat.github.io/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "◇Full-day, in personMontréal · Canada | Submission deadlineNovember 20, 2026Anywhere on Earth | Read the Call for Papers → | InputsToolsMemoryActions | Responsible deployment and disclosure. Operational lessons, deployment safeguards, defense limitations, vulnerability coordination, and responsible disclosure practices. | Important Dates | Submission deadline:November 20, 2026Anywhere on Earth | Acceptance notification:December 2, 2026Author notification | Workshop:February 22 or 23, 2027In person · Montréal | Submission Guidelines"
+            "excerpt": "◇Full-day, in personMontréal · Canada | Submission deadlineNovember 20, 2026Anywhere on Earth | Submit on OpenReview → | InputsToolsMemoryActions | Responsible deployment and disclosure. Operational lessons, deployment safeguards, defense limitations, vulnerability coordination, and responsible disclosure practices. | Important Dates | Submission deadline:November 20, 2026Anywhere on Earth | Acceptance notification:December 2, 2026Author notification | Workshop:February 22 or 23, 2027In person · Montréal | Submission Guidelines"
           }
         ]
       }
@@ -1089,11 +1089,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1127,7 +1127,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "history": [
@@ -1148,7 +1148,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1181,11 +1181,11 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1224,7 +1224,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1245,7 +1245,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed_with_source_mismatch",
         "sources": [
           {
@@ -1283,7 +1283,7 @@
       "exception": false,
       "incomplete": true,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -1304,7 +1304,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "conflicting_workshop_sources",
         "sources": [
           {
@@ -1344,7 +1344,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1365,7 +1365,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1383,36 +1383,53 @@
       "website": "https://frontier-ir-workshop.github.io/",
       "officialLine": 1544,
       "officialDates": [],
-      "submission": null,
-      "notification": null,
+      "submission": "2026-11-20",
+      "notification": "2026-12-02",
       "submissionTime": "",
-      "submissionZone": "Unknown",
+      "submissionZone": "AoE (UTC−12)",
       "notificationQualifier": "",
       "basis": "Workshop website",
       "source": "https://frontier-ir-workshop.github.io/",
       "notes": [
-        "The official link currently opens a page headed “AAAI 2026” with 2025 deadlines. No current 2027 submission or notification dates were found there or in the AAAI individual CFP; old-edition dates were excluded."
+        "The workshop website now presents the current AAAI-27 edition. Its CFP explicitly states November 20, 2026 for submission and December 2, 2026 for notification, both AoE. No numeric cutoff time is specified. Old AAAI-26 dates are excluded."
       ],
       "flags": [],
       "fastTracks": [],
       "exception": false,
-      "incomplete": true,
-      "attention": true,
-      "checked": "2026-10-19",
+      "incomplete": false,
+      "attention": false,
+      "checked": "2026-10-21",
       "notificationTime": "",
-      "notificationZone": "Unknown",
+      "notificationZone": "AoE (UTC−12)",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
-        "status": "old_edition_only",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
+        "status": "confirmed",
         "sources": [
           {
             "url": "https://frontier-ir-workshop.github.io/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Key Dates | Submission Deadline: October 22, 2025 (AOE) November 13, 2025 (AOE) | Notification of Acceptance: December 11, 2025 (AOE) | All deadlines follow the Anywhere on Earth (AoE) timezone. | Submission Format | All papers must be submitted in PDF format, using the AAAI-26 author kit. We welcome two types of papers: | Submission Site | The workshop uses OpenReview for paper submission and review. The submission link is https://openreview.net/group?id=AAAI.org/2026/Workshop/FrontierIR. | The review process will be single-blinded, and we welcome accepted and published papers. The contributions will be non-archival and only will be hosted on our workshop website. There will be one best paper award for accepted papers with outstanding quality. | Organizers"
+            "excerpt": "Key Dates | Submission Deadline: November 20, 2026 (AoE) | Notification of Acceptance: December 2, 2026 (AoE) | AAAI-27 Early Registration Deadline: December 15, 2026 (11:59 PM Eastern Time) | Workshop Date: February 22 or 23, 2027 (AAAI-27 workshop program, exact day TBA), Montréal, Canada | Submission Site | As in the first edition, the workshop uses OpenReview for paper submission and review. The submission link is https://openreview.net/group?id=AAAI.org/2027/Workshop/FrontierIR. | Submissions will undergo double-blind review, with at least three reviews per paper. Accepted papers will be presented as talks or posters. The contributions are non-archival and will be hosted on the workshop website. A best paper award will be presented at the closing session. | Organizers"
           }
         ]
-      }
+      },
+      "history": [
+        {
+          "verifiedOn": "2026-10-19",
+          "supersededOn": "2026-10-21",
+          "values": {
+            "submission": null,
+            "notification": null,
+            "submissionTime": "",
+            "submissionZone": "Unknown",
+            "notificationTime": "",
+            "notificationZone": "Unknown",
+            "notificationQualifier": ""
+          },
+          "source": "https://frontier-ir-workshop.github.io/",
+          "reason": "Updated after a new full check of the current workshop pages; missing cutoff details are not inferred."
+        }
+      ]
     },
     {
       "id": 30,
@@ -1436,7 +1453,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1457,7 +1474,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1491,11 +1508,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1526,11 +1543,11 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1563,7 +1580,7 @@
       "exception": false,
       "incomplete": true,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1584,7 +1601,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "dates_unpublished",
         "sources": [
           {
@@ -1615,11 +1632,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1640,36 +1657,53 @@
         "* November 20, 2026: Submissions due",
         "* December 2, 2026: Notification of acceptance"
       ],
-      "submission": null,
-      "notification": null,
+      "submission": "2026-11-20",
+      "notification": "2026-12-02",
       "submissionTime": "",
       "submissionZone": "Unknown",
       "notificationQualifier": "",
-      "basis": "Workshop website (unavailable)",
+      "basis": "Workshop website",
       "source": "https://w3phiai2027.w3phi.com/",
       "notes": [
-        "Unknown: the workshop website could not be verified because it returned HTTP 403. AAAI’s individual CFP lists November 20 and December 2, 2026; these are retained as reference information only."
+        "The current workshop website is now accessible and explicitly lists November 20, 2026 for submissions and December 2, 2026 for acceptance notification. The cutoff times and timezones are not specified; these remain Unknown."
       ],
       "flags": [],
       "fastTracks": [],
       "exception": false,
-      "incomplete": true,
-      "attention": true,
-      "checked": "2026-10-19",
+      "incomplete": false,
+      "attention": false,
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
-        "status": "source_unavailable",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
+        "status": "confirmed",
         "sources": [
           {
             "url": "https://w3phiai2027.w3phi.com/",
             "method": "HTTP",
-            "httpStatus": 403,
-            "excerpt": "HTTP 403 Forbidden in both HTTP and rendered browser checks; no workshop dates can be verified."
+            "httpStatus": 200,
+            "excerpt": "Authors of selected papers will have opportunities to contribute to a journal special issues. | Important Dates | November 20, 2026 | Submissions due | AAAI Format Via EasyChair | December 2, 2026 | Notification of acceptance | Acceptance or Rejection | January 8, 2027"
           }
         ]
-      }
+      },
+      "history": [
+        {
+          "verifiedOn": "2026-10-19",
+          "supersededOn": "2026-10-21",
+          "values": {
+            "submission": null,
+            "notification": null,
+            "submissionTime": "",
+            "submissionZone": "Unknown",
+            "notificationTime": "",
+            "notificationZone": "Unknown",
+            "notificationQualifier": ""
+          },
+          "source": "https://w3phiai2027.w3phi.com/",
+          "reason": "Updated after a new full check of the current workshop pages; missing cutoff details are not inferred."
+        }
+      ]
     },
     {
       "id": 36,
@@ -1693,11 +1727,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1735,7 +1769,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1756,14 +1790,14 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://med-wm.github.io/aaai27-mwm/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "October 16, 2026 | Paper submissions due to organizers | November 15, 2026 | Acceptance notifications | February 22 or 23, 2027 (half-day; exact date and session TBA), Montréal, Canada | All deadlines are Anywhere on Earth (UTC-12). | Submission Format | All papers must be submitted as a single PDF in the AAAI two-column format (maximum 50 MB), using the AAAI author kit. We welcome two types of submissions: | Submission Site | Submissions are handled via OpenReview and are now open: Submit on OpenReview (submission deadline: November 15, 2026, Anywhere on Earth). | All authors must have an OpenReview profile before submitting. New profiles created without an institutional email address go through a moderation process, so please register early. | Confirmed Keynote and Invited Speakers"
+            "excerpt": "October 16, 2026 | Paper submissions due to organizers | November 15, 2026 | Acceptance notifications | February 22 or 23, 2027 (half-day; exact date and session TBA), Palais des congrès, Montréal, Canada | All deadlines are Anywhere on Earth (UTC-12). | Submission Format | All papers must be submitted as a single PDF in the AAAI two-column format (maximum 50 MB), using the AAAI author kit. We welcome two types of submissions: | Submission Site | Submissions are handled via OpenReview and are now open: Submit on OpenReview (submission deadline: November 15, 2026, Anywhere on Earth). | All authors must have an OpenReview profile before submitting. New profiles created without an institutional email address go through a moderation process, so please register early. | Confirmed Keynote and Invited Speakers"
           }
         ]
       }
@@ -1793,7 +1827,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1814,7 +1848,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1851,11 +1885,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1888,11 +1922,11 @@
       "exception": false,
       "incomplete": true,
       "attention": true,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "dates_unpublished",
         "sources": [
           {
@@ -1923,11 +1957,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1967,18 +2001,18 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://trust4rsi-agent.github.io/AAAI2027/",
-            "method": "Rendered browser",
+            "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Key Dates | Submission Deadline: November 20, 2026, AoE | Notification Date: December 2, 2026, AoE | Workshop Date: February 22–23, 2027 (one-day workshop; exact day TBA) |  | Deadlines are strict and will not be extended. All deadlines follow the Anywhere on Earth (AoE) timezone. |  | "
+            "excerpt": "Key Dates | Submission Deadline: November 20, 2026, AoE | Notification Date: December 2, 2026, AoE | Workshop Date: February 22–23, 2027 (one-day workshop; exact day TBA) | Deadlines are strict and will not be extended. All deadlines follow the Anywhere on Earth (AoE) timezone. | Submission Site | Submissions is managed via OpenReview. | Application Deadline: TBD | Notification of Results: TBD | 🎯 Priority Considerations | Preference will be given to:"
           }
         ]
       }
@@ -2006,7 +2040,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -2027,7 +2061,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -2063,11 +2097,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -2101,11 +2135,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-19",
+      "checked": "2026-10-21",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-20T02:10:34.265141+00:00",
+        "checkedAt": "2026-10-21T15:06:58.810128+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -2118,13 +2152,11 @@
       }
     }
   ],
-  "refreshStatus": "completed_with_unavailable_sources",
+  "refreshStatus": "completed",
   "refreshSummary": {
     "namedWorkshopsAttempted": 45,
-    "workshopSitesAvailable": 44,
-    "unavailableWorkshopIds": [
-      35
-    ],
+    "workshopSitesAvailable": 45,
+    "unavailableWorkshopIds": [],
     "officialInventoryChanged": false,
     "unavailableSourcePolicy": "Inaccessible workshop dates remain Unknown; reference dates never fill the main fields."
   }
