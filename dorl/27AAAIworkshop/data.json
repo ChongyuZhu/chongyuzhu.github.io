@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedDate": "2026-10-30",
+  "checkedDate": "2026-11-02",
   "officialMentionedCount": 47,
   "refreshIntervalDays": 2,
   "timezone": "America/Toronto",
@@ -31,7 +31,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -52,7 +52,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -95,7 +95,7 @@
       "exception": false,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -116,7 +116,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed_with_source_mismatch",
         "sources": [
           {
@@ -155,7 +155,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -176,7 +176,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -219,11 +219,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -254,7 +254,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -275,7 +275,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -308,11 +308,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -345,11 +345,11 @@
       "exception": false,
       "incomplete": true,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "dates_unpublished",
         "sources": [
           {
@@ -392,11 +392,11 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -436,11 +436,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -486,7 +486,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -507,7 +507,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -538,11 +538,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -580,7 +580,7 @@
       "exception": false,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC-12)",
       "shortTitle": "Eval AI Scientists",
@@ -602,7 +602,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -633,7 +633,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC-12)",
       "history": [
@@ -654,7 +654,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -687,11 +687,11 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "23:59",
       "notificationZone": "PST (UTC−8)",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -758,11 +758,11 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed_with_source_mismatch",
         "sources": [
           {
@@ -798,11 +798,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -833,11 +833,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -870,7 +870,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -891,7 +891,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -926,11 +926,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -986,7 +986,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -1007,7 +1007,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1057,11 +1057,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1094,11 +1094,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1129,11 +1129,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1167,7 +1167,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "history": [
@@ -1188,7 +1188,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1221,11 +1221,11 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1264,7 +1264,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1285,7 +1285,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed_with_source_mismatch",
         "sources": [
           {
@@ -1323,7 +1323,7 @@
       "exception": false,
       "incomplete": true,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -1344,7 +1344,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "conflicting_workshop_sources",
         "sources": [
           {
@@ -1384,7 +1384,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1405,7 +1405,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1438,11 +1438,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1493,7 +1493,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1514,7 +1514,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1548,11 +1548,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1570,34 +1570,53 @@
       "website": "https://www.safeworkshop.org/aaai-2027/",
       "officialLine": 1685,
       "officialDates": [],
-      "submission": "2026-11-02",
+      "submission": "2026-11-04",
       "notification": "2026-12-02",
       "submissionTime": "23:59",
-      "submissionZone": "AoE (UTC−12)",
+      "submissionZone": "ET",
       "notificationQualifier": "",
       "basis": "Workshop website",
       "source": "https://www.safeworkshop.org/aaai-2027/",
-      "notes": [],
+      "notes": [
+        "The current workshop website now states November 4, 2026 at 23:59 ET for submission, replacing the previously verified November 2, 2026 at 23:59 AoE deadline. Acceptance notification remains December 2, 2026; its cutoff time and timezone are not published."
+      ],
       "flags": [],
       "fastTracks": [],
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://www.safeworkshop.org/aaai-2027/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Volunteer to Review | Important Dates | Submission Deadline | November 2, 2026 at 11:59pm AoE | (conversion tool) | Notification of Acceptance | December 2, 2026 | Camera-ready Deadline"
+            "excerpt": "All submissions undergo double-blind peer review on OpenReview, following the AAAI Code of Professional Ethics and Conduct and the AAAI Publications Policies and Guidelines. A dedicated AI-Content Integrity Area Chair screens submissions for machine-generated content; flagged papers receive additional human review rather than automatic rejection. | Important Dates | Submission Deadline | November 4, 2026 at 11:59pm ET | (conversion tool) | Notification of Acceptance | December 2, 2026 | Camera-ready Deadline"
           }
         ]
-      }
+      },
+      "history": [
+        {
+          "verifiedOn": "2026-10-30",
+          "supersededOn": "2026-11-02",
+          "values": {
+            "submission": "2026-11-02",
+            "notification": "2026-12-02",
+            "submissionTime": "23:59",
+            "submissionZone": "AoE (UTC−12)",
+            "notificationTime": "",
+            "notificationZone": "Unknown",
+            "notificationQualifier": ""
+          },
+          "source": "https://www.safeworkshop.org/aaai-2027/",
+          "reason": "Updated after a new full check of the current workshop pages; missing cutoff details are not inferred."
+        }
+      ]
     },
     {
       "id": 33,
@@ -1620,7 +1639,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -1656,7 +1675,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1687,11 +1706,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1727,11 +1746,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1782,11 +1801,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1824,7 +1843,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1845,14 +1864,14 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://med-wm.github.io/aaai27-mwm/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "October 16, 2026 | Paper submissions due to organizers | November 15, 2026 | Acceptance notifications | February 22 or 23, 2027 (half-day; exact date and session TBA), Palais des congrès, Montréal, Canada | All deadlines are Anywhere on Earth (UTC-12). | Submission Format | All papers must be submitted as a single PDF in the AAAI two-column format (maximum 50 MB), using the AAAI author kit. We welcome two types of submissions: | Submission Site | Submissions are handled via OpenReview and are now open: Submit on OpenReview (submission deadline: November 15, 2026, Anywhere on Earth). | All authors must have an OpenReview profile before submitting. New profiles created without an institutional email address go through a moderation process, so please register early. | Confirmed Keynote and Invited Speakers"
+            "excerpt": "October 16, 2026 | Paper submissions due to organizers | November 15, 2026 | Acceptance notifications | February 22 or 23, 2027 (half-day; exact date and session TBA), Palais des congrès, Montréal, Canada | All deadlines are Anywhere on Earth (UTC-12). | Submission Format | All papers must be submitted as a single PDF in the AAAI two-column format (maximum 50 MB), using the AAAI author kit. We welcome two types of submissions: | Submission Site | Submissions are handled via OpenReview and are now open: Submit on OpenReview (submission deadline: November 15, 2026, Anywhere on Earth). | All authors must have an OpenReview profile before submitting. New profiles created without an institutional email address go through a moderation process, so please register early. | Author FAQ"
           }
         ]
       }
@@ -1882,7 +1901,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1903,7 +1922,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1940,11 +1959,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1977,11 +1996,11 @@
       "exception": false,
       "incomplete": true,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "dates_unpublished",
         "sources": [
           {
@@ -2014,11 +2033,11 @@
       "exception": false,
       "incomplete": true,
       "attention": true,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "source_unavailable",
         "sources": [
           {
@@ -2075,11 +2094,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -2116,7 +2135,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -2152,7 +2171,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -2188,11 +2207,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -2226,11 +2245,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-10-30",
+      "checked": "2026-11-02",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-10-31T03:14:13.556292+00:00",
+        "checkedAt": "2026-11-02T14:24:51.207405+00:00",
         "status": "confirmed",
         "sources": [
           {
