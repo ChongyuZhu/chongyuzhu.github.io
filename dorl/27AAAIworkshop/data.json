@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedDate": "2026-11-06",
+  "checkedDate": "2026-11-14",
   "officialMentionedCount": 47,
   "refreshIntervalDays": 2,
   "timezone": "America/Toronto",
@@ -31,7 +31,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -52,7 +52,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -68,7 +68,8 @@
             "excerpt": "Papers should be submitted via OpenReview | Important Dates | Submission Deadline: November 20, 2026 | Notification of Acceptance: December 2, 2026 | © AAAI 2027 Workshop on Foretelling the Future of AI through Mathematical Foundations - From Learning Architectures to Trustworthy Agents | Google Sites"
           }
         ]
-      }
+      },
+      "officialOrder": 1
     },
     {
       "id": 2,
@@ -95,7 +96,7 @@
       "exception": false,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -116,23 +117,24 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed_with_source_mismatch",
         "sources": [
           {
             "url": "https://sites.google.com/view/social-sims-with-llms/social-sim27",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Key Dates: | Submission Deadline: November 20, 2026, AoE | Accept/Reject Notification: December 2, 2026, AoE | Camera Ready Deadline: December 9, 2026, AoE | Workshop Date: February 22 or 23, 2027 (TBD)"
+            "excerpt": "Key Dates: | Submission Deadline: November 20, 2026, AoE | Accept/Reject Notification: December 2, 2026, AoE | Camera Ready Deadline: December 9, 2026, AoE | Workshop Date: February 22 or 23, 2027 (TBD) | Speakers & Panelists"
           },
           {
             "url": "https://sites.google.com/view/social-sims-with-llms/call-for-papers-2027",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Key Dates | Submission Deadline: November 20, 2026, AoE | Accept/Reject Notification: December 2, 2026, AoE | Camera Ready Deadline: December 9, 2026, AoE | Workshop Date: February 2027 (exact date TBD)"
+            "excerpt": "Key Dates | Submission Deadline: November 20, 2026, AoE | Accept/Reject Notification: December 2, 2026, AoE | Camera Ready Deadline: December 9, 2026, AoE | Workshop Date: February 2027 (exact date TBD) | Topics  of interest include, but are not limited to:"
           }
         ]
-      }
+      },
+      "officialOrder": 2
     },
     {
       "id": 3,
@@ -155,7 +157,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -176,7 +178,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -189,16 +191,17 @@
             "url": "https://ai-2-ase.github.io/dates/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Call for Papers | Important Dates | AAAI 2027 | Previous Workshops | Dates | Paper submission deadline: November 15, 2026 (11:59 PM PST). | Notification: November 30, 2026. | Camera-ready deadline: To be announced. | Workshop date: To be announced."
+            "excerpt": "Call for Papers | Important Dates | AAAI 2027 | Previous Workshops | Dates | Paper submission deadline: November 15, 2026 (11:59 PM PST). | Notification: November 30, 2026. | Camera-ready deadline: To be announced. | Workshop date: To be announced. | Published with Wowchemy — the free, open source website builder that empowers creators."
           },
           {
             "url": "https://ai-2-ase.github.io/cop/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Call for Papers | Important Dates | AAAI 2027 | Previous Workshops | Submissions must be formatted in the AAAI submission format. All submissions should be done electronically via CMT. | Submission Site: Submit your paper via Microsoft CMT. | Paper submission deadline: November 15, 2026 (11:59 PM PST). | Notification: November 30, 2026. | The accepted papers will be considered non-archival. | CMT acknowledgement: The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support."
+            "excerpt": "Call for Papers | Important Dates | AAAI 2027 | Previous Workshops | Submission Site: Submit your paper via Microsoft CMT. | Paper submission deadline: November 15, 2026 (11:59 PM PST). | Notification: November 30, 2026. | The accepted papers will be considered non-archival. | CMT acknowledgement: The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support."
           }
         ]
-      }
+      },
+      "officialOrder": 3
     },
     {
       "id": 4,
@@ -206,34 +209,54 @@
       "website": "https://tom4ai.github.io/AAAI2027/call-for-papers/",
       "officialLine": 340,
       "officialDates": [],
-      "submission": "2026-11-20",
-      "notification": "2026-12-02",
+      "submission": "2026-12-02",
+      "notification": "2026-12-10",
       "submissionTime": "",
       "submissionZone": "AoE (UTC−12)",
       "notificationQualifier": "",
       "basis": "Workshop website",
       "source": "https://tom4ai.github.io/AAAI2027/call-for-papers/",
-      "notes": [],
+      "notes": [
+        "The workshop CFP now gives December 2, 2026 (AoE) for submissions and December 10, 2026 for notification. The former November 20 and December 2 dates are preserved in history. Specific cutoff times and a notification timezone remain Unknown."
+      ],
       "flags": [],
       "fastTracks": [],
-      "exception": false,
+      "exception": true,
       "incomplete": false,
-      "attention": false,
-      "checked": "2026-11-06",
+      "attention": true,
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://tom4ai.github.io/AAAI2027/call-for-papers/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "the official author kit can be downloaded here. | Important dates: | 20/11/2026 - submissions due (AOE) | 02/12/2026 - authors notification | Topics include (but are not limited to):"
+            "excerpt": "the official author kit can be downloaded here. | Important dates: | 02/12/2026 - submissions due (AOE) | 10/12/2026 - authors notification | Topics include (but are not limited to): | Developmental ToM: Insights for AI"
           }
         ]
-      }
+      },
+      "history": [
+        {
+          "verifiedOn": "2026-11-06",
+          "supersededOn": "2026-11-14",
+          "values": {
+            "submission": "2026-11-20",
+            "notification": "2026-12-02",
+            "submissionTime": "",
+            "submissionZone": "AoE (UTC−12)",
+            "notificationTime": "",
+            "notificationZone": "Unknown",
+            "notificationQualifier": ""
+          },
+          "source": "https://tom4ai.github.io/AAAI2027/call-for-papers/",
+          "reason": "The current workshop source confirms a changed timetable."
+        }
+      ],
+      "officialOrder": 4
     },
     {
       "id": 5,
@@ -254,7 +277,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -275,7 +298,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -285,7 +308,8 @@
             "excerpt": "Authors of submitted workshop papers may be asked to review at least one other submission. Please make sure at least one author per paper has an OpenReview profile and is available during the review period. More about reviewing | Important dates | Timeline | Submission siteOpenReview | Paper submission deadlineFri, Nov 20, 2026 | Author notificationWed, Dec 2, 2026 | Camera-ready deadlineTBA | Workshop dayMon, Feb 22 or Tue, Feb 23, 2027 Day TBA | The AAAI-27 workshop program takes place Monday, February 22 and Tuesday, February 23, 2027, at the Palais des Congrès de Montréal. Deadlines follow the AAAI-27 workshop program guidelines. All deadlines are 23:59 Anywhere on Earth (AoE). | Program | Tentative schedule | We will send you an invitation through OpenReview. | Reviewing takes place between the submission deadline (November 20, 2026) and author notification (December 2, 2026). | Prof. Siavash H. Khajavisiavash.khajavi@aalto.fi | Mrs. Zixuan Liuzliu41@tulane.edu"
           }
         ]
-      }
+      },
+      "officialOrder": 5
     },
     {
       "id": 6,
@@ -308,21 +332,22 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://a2netops.github.io/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "WhereMontréal, CanadaPalais des congrès | Submission deadlineNovember 20, 2026Anywhere on Earth (UTC−12) | Oct 8, 2026 | The call for participation is live. OpenReview submissions open October 16, 2026. | Authors should create or update their OpenReview profiles well before the deadline. New profiles without an institutional email may require moderation; profiles created with an institutional email are activated automatically. | Important dates | Mark your calendar. | Oct 16, 2026OpenReview submissions open12:00 AM AoE (UTC−12) | Nov 20, 2026Workshop submissions due11:59 PM AoE (UTC−12) | Dec 2, 2026Author notifications | Dec 15, 2026AAAI-27 early registration ends | Feb 22 or 23, 2027One-day workshopExact day and room TBA"
+            "excerpt": "WhereMontréal, CanadaPalais des congrès | Submission deadlineNovember 20, 2026Anywhere on Earth (UTC−12) | Oct 8, 2026 | The call for participation is live. OpenReview submissions open October 16, 2026. | Full papers may be up to 8 pages; short, position, and demo papers may be up to 4 pages. Page limits include references. An optional appendix may follow the references in the same PDF and does not count toward the page limit. The main paper must be self-contained, and reviewers are not required to read the appendix. There is no separate supplementary-file upload. Use the two-column format in the AAAI-27 Author Kit (ZIP). Submissions will be evaluated for relevance, technical quality, clarity, and potential to stimulate discussion. At least one author of each accepted submission must present in person. AAAI does not publish workshop papers in its Digital Library; titles, abstracts, and author lists of accepted submissions will be public on OpenReview, while submission PDFs will remain private unless the organizers later announce and explicitly enable their release. | Authors should create or update their OpenReview profiles well before the deadline. New profiles without an institutional email may require moderation; profiles created with an institutional email are activated automatically. | Important dates | Mark your calendar. | Oct 16, 2026OpenReview submissions open12:00 AM "
           }
         ]
-      }
+      },
+      "officialOrder": 6
     },
     {
       "id": 7,
@@ -345,11 +370,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -376,7 +401,45 @@
           "source": "https://iamtirthankar.github.io/AI4Factory-2027/",
           "reason": "Updated after a new full check of the current workshop pages; missing cutoff details are not inferred."
         }
-      ]
+      ],
+      "officialOrder": 7
+    },
+    {
+      "id": 46,
+      "title": "ANTHROLOGOS — to Be or Not to Be: Anthropomorphism in AI — Mechanism or Illusion?",
+      "website": "https://pragyaai.github.io/anthrologos/",
+      "source": "https://pragyaai.github.io/anthrologos/",
+      "basis": "Workshop CFP",
+      "officialDates": [],
+      "submission": null,
+      "notification": null,
+      "submissionTime": "",
+      "submissionZone": "Unknown",
+      "notificationTime": "",
+      "notificationZone": "Unknown",
+      "notificationQualifier": "",
+      "notes": [
+        "The current AAAI-27 workshop website has a Call for Papers section. Submission and notification dates have yet to be published."
+      ],
+      "flags": [],
+      "fastTracks": [],
+      "officialOrder": 8,
+      "checked": "2026-11-14",
+      "exception": false,
+      "incomplete": true,
+      "attention": true,
+      "verification": {
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
+        "status": "dates_unpublished",
+        "sources": [
+          {
+            "url": "https://pragyaai.github.io/anthrologos/",
+            "method": "HTTP",
+            "httpStatus": 200,
+            "excerpt": "Current AAAI-27 site and Call for Papers checked. Neither date is published."
+          }
+        ]
+      }
     },
     {
       "id": 8,
@@ -409,11 +472,11 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -426,10 +489,11 @@
             "url": "https://aics.site/AICS2027/cfp.html",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Organization | Important Dates | Website Launched | October 04, 2026 | Paper Submission Deadline | November 20, 2026 | (Fast Track) Dec 02, 2025 (AOE) | Author Notification | December 11, 2026 (AOE) | AAAI-27 Conference"
+            "excerpt": "Organization | Important Dates | Website Launched | October 04, 2026 | Paper Submission Deadline | November 20, 2026 | (Fast Track) Dec 02, 2025 (AOE) | Author Notification | December 11, 2026 (AOE) | AAAI-27 Conference | Submissions are not anonymized. Please submit PDF via the openreview link above by Nov 20, 2026, AOE. | A fastrack for AAAI main conference unloved papers has a later deadline of Dec 02, 2026, AOE (submission instruction TBD) | Topics of interest include, but are not limited to: | Security and Robustness of AI-enabled Systems (adversarial attacks in AI,"
           }
         ]
-      }
+      },
+      "officialOrder": 9
     },
     {
       "id": 9,
@@ -453,24 +517,24 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://sites.google.com/view/clip27",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "The workshop format is currently subject to changes. | Important Dates | Deadline: 20th November 2026 AoE | Notifications Sent to Authors: 2nd December 2026"
+            "excerpt": "The workshop format is currently subject to changes. | Important Dates | Deadline: 20th November 2026 AoE | Notifications Sent to Authors: 2nd December 2026 | Camera-ready: 16th December 2026 | Submission portal: https://easychair.org/conferences/?conf=aaai27clip"
           },
           {
             "url": "https://sites.google.com/view/clip27/call-for-papers",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Call For Papers | The workshop accepts full paper submissions with the option of publishing in our Springer proceedings and abstract submissions where accepted abstracts will be presented as a poster and not published in the proceedings. | We invite original research papers, position papers, and case studies (up to 15 pages excluding references) following Springer format. Authors encouraged to include prototype implementation descriptions as well as bring along a demo of the work | Specific areas of interest include but are not limited to: | All presentations must be in person. Virtual Presentations are not permitted. | Paper deadline: 20th November 2026 AoE | Notifications Sent to Authors: 2nd December 2026 | Camera-ready: 16th December 2026"
+            "excerpt": "Call For Papers | The workshop accepts full paper submissions with the option of publishing in our Springer proceedings and abstract submissions where accepted abstracts will be presented as a poster and not published in the proceedings. | We invite original research papers, position papers, and case studies (up to 15 pages excluding references) following Springer format. Authors encouraged to include prototype implementation descriptions as well as bring along a demo of the work | Specific areas of interest include but are not limited to: | All presentations must be in person. Virtual Presentations are not permitted. | Paper deadline: 20th November 2026 AoE | Notifications Sent to Authors: 2nd December 2026 | Camera-ready: 16th December 2026 | Submission portal: https://easychair.org/conferences/?conf=aaai27clip"
           },
           {
             "url": "https://sites.google.com/view/clip27/submission-guidelines",
@@ -479,7 +543,8 @@
             "excerpt": "Submission Guidelines | The workshop accepts full paper submissions with the option of publishing in our Springer proceedings and abstract submissions where accepted abstracts will be presented as a poster and not published in the proceedings. | Full paper submission | Format: All submissions must be a single PDF file up to maximum 15 pages excluding references. We welcome high-quality original papers. Work-in-progress welcome. Authors encouraged to include prototype implementation descriptions as well as bring along a physical demo of the work. | Style: You must format your submission using the Springer format. Please include the references and supplementary materials in the same PDF. The maximum file size for submissions is 50MB. Submissions that violate the AAAI style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review."
           }
         ]
-      }
+      },
+      "officialOrder": 10
     },
     {
       "id": 10,
@@ -503,7 +568,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -524,17 +589,18 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://dai-workshop.github.io/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "News | Submission Deadline:  20 November 2026 | Speaker List TBD | About | Key Dates | Paper Deadline: 20 November 2026 | Notification: 2nd December 2026 | Camera-ready: 20 December 2026 | All deadlines follow the Anywhere on Earth (AoE) timezone. | Submission Site | Submit papers through the Deployable AI Workshop Submission Portal on OpenReview (Workshop Submission Portal) | been recently accepted, , provided they do not breach any dual-submission or anonymity policies of those venues. The workshop is a non-archival venue and will not | have official proceedings. Workshop submissions can be subsequently or concurrently | submitted to other venues. | Visibility:   Submissions and reviews will not be public. Only"
+            "excerpt": "News | Submission Deadline:  20 November 2026 | Speaker List TBD | About | Key Dates | Paper Deadline: 20 November 2026 | Notification: 2nd December 2026 | Camera-ready: 20 December 2026 | All deadlines follow the Anywhere on Earth (AoE) timezone. | Submission Site | Submit papers through the Deployable AI Workshop Submission Portal on OpenReview (Workshop Submission Portal)"
           }
         ]
-      }
+      },
+      "officialOrder": 11
     },
     {
       "id": 11,
@@ -555,21 +621,22 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://dimigenais-aaai2027.netlify.app/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "THE CALL FOR PAPERS IS OPEN! | Submission deadline | November 20, 2026 (AoE) | Notification"
+            "excerpt": "THE CALL FOR PAPERS IS OPEN! | Submission deadline | November 20, 2026 (AoE) | Notification | December 2, 2026 | Early registration ends"
           }
         ]
-      }
+      },
+      "officialOrder": 12
     },
     {
       "id": 12,
@@ -597,7 +664,7 @@
       "exception": false,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC-12)",
       "shortTitle": "Eval AI Scientists",
@@ -619,17 +686,18 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://eval-ai-scientists.github.io/aaai27/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Palais des Congrès de Montréal Montréal, Canada | Submission deadline | 20 November 2026, 06:00 UTC | Official listing | Submit on OpenReview | Important dates | The submission deadline is 06:00 UTC, when the OpenReview portal closes. Other deadlines are 23:59 Anywhere on Earth, meaning UTC−12. | 5 October 2026Submissions open on OpenReview | 20 November 2026, 06:00 UTCSubmission deadline | 2 December 2026Acceptance notification | 15 January 2027Camera-ready versions due"
+            "excerpt": "Palais des Congrès de Montréal Montréal, Canada | Submission deadline | 20 November 2026, 06:00 UTC | Official listing | Submit on OpenReview | Important dates | The submission deadline is 06:00 UTC, when the OpenReview portal closes. Other deadlines are 23:59 Anywhere on Earth, meaning UTC−12. | 5 October 2026Submissions open on OpenReview | 20 November 2026, 06:00 UTCSubmission deadline | 2 December 2026Acceptance notification | 15 January 2027Camera-ready versions due | 22 February 2027AAAI-27 workshop"
           }
         ]
-      }
+      },
+      "officialOrder": 13
     },
     {
       "id": 13,
@@ -650,7 +718,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC-12)",
       "history": [
@@ -671,17 +739,18 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://embodied-meta-alignment.pages.dev/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "When, How, and With Whom should AI systems Align? | Paper Submission Deadline Mon, Nov 16, 2026, 23:59 AoE | --Days | --Hours | Timeline | Important Dates | All deadlines are 23:59 AoE. | Mon, Nov 16, 2026 | Paper Submission Deadline | Wed, Dec 2, 2026 | Acceptance Notification"
+            "excerpt": "When, How, and With Whom should AI systems Align? | Paper Submission Deadline Mon, Nov 16, 2026, 23:59 AoE | --Days | --Hours | Timeline | Important Dates | All deadlines are 23:59 AoE. | Mon, Nov 16, 2026 | Paper Submission Deadline | Wed, Dec 2, 2026 | Acceptance Notification | Wed, Dec 16, 2026 | Camera-ready Deadline | Monday, February 22, 2027, or Tuesday, February 23, 2027 | Workshop Date | Accepted papers will be posted on this website and presented as a poster or contributed talk. | Deadline: Mon, Nov 16, 2026 (AoE) | Submit via HotCRP | Keynotes"
           }
         ]
-      }
+      },
+      "officialOrder": 14
     },
     {
       "id": 14,
@@ -704,11 +773,11 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "23:59",
       "notificationZone": "PST (UTC−8)",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -721,13 +790,13 @@
             "url": "https://www.emc2-ai.org/aaai-27",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Build the best draft model for a fixed large language model: one that guesses right most often, uses the least memory, and makes generation fastest. | The competition site has the full details: rules, prizes, important dates and how to take part. | Go to the competition site open_in_new | Contact | We will follow that same formatting guidelines and duplicate submission policies as AAAI. | Important Dates | Paper Submission | December 25, 2026 (23:59 PST) | Acceptance and Author Notification | January 15, 2027 (23:59 PST) | Venue"
+            "excerpt": "Build the best draft model for a fixed large language model: one that guesses right most often, uses the least memory, and makes generation fastest. | The competition site has the full details: rules, prizes, important dates and how to take part. | Go to the competition site open_in_new | Contact | We will follow that same formatting guidelines and duplicate submission policies as AAAI. | Important Dates | Paper Submission | December 25, 2026 (23:59 PST) | Acceptance and Author Notification | January 15, 2027 (23:59 PST) | Venue | The workshop is co-located with AAAI-27 and will be held in Montreal, Canada on Feb22-Feb23, 2027."
           },
           {
             "url": "https://www.emc2-ai.org/submission",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Submit to the Workshop | Important Dates | Paper Submission | December 25, 2026 (23:59 PST) | Acceptance and Author Notification | January 15, 2027 (23:59 PST) | Workshop"
+            "excerpt": "Submit to the Workshop | Important Dates | Paper Submission | December 25, 2026 (23:59 PST) | Acceptance and Author Notification | January 15, 2027 (23:59 PST) | Workshop | February 22/23, 2027"
           }
         ]
       },
@@ -747,7 +816,8 @@
           "source": "https://www.emc2-ai.org/aaai-27",
           "reason": "Updated after a new full check of the current workshop pages; missing cutoff details are not inferred."
         }
-      ]
+      ],
+      "officialOrder": 15
     },
     {
       "id": 15,
@@ -758,7 +828,7 @@
         "* Paper submission deadline: 4th November 2026",
         "* Notification of decisions: by 2 December 2026"
       ],
-      "submission": "2026-11-06",
+      "submission": "2026-11-13",
       "notification": "2026-12-02",
       "submissionTime": "23:59",
       "submissionZone": "AoE (UTC−12)",
@@ -766,7 +836,7 @@
       "basis": "Workshop website",
       "source": "https://amaai-lab.github.io/EAIM2027/",
       "notes": [
-        "Source mismatch: the current workshop website gives November 6, 2026 (23:59 AoE); AAAI’s individual CFP still gives November 4, 2026. The table follows the workshop website. Decisions are promised by December 2."
+        "The workshop website extends the submission deadline from November 6 to November 13, 2026 at 23:59 AoE. The AAAI individual CFP still lists November 4. The workshop website gives December 2, 2026 as the latest date for acceptance notifications."
       ],
       "flags": [
         "conflict"
@@ -775,21 +845,39 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed_with_source_mismatch",
         "sources": [
           {
             "url": "https://amaai-lab.github.io/EAIM2027/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Montréal, Canada · February 2027 | Call for papers ↗Important dates ↓ | HUMAN × AIEAIM / 02 | A space for research. | OpenReview | Submit your paper through the EAIM 2027 OpenReview portal. | Submit on OpenReview ↗ | Review & proceedings | 03 / Key milestones | Important dates | The EAIM submission and review timeline. | Paper submission deadline 23:59 AoE (UTC−12) | 6 November 2026 | Review period | Where do I submit, and what format should I use? | Submit through the EAIM 2027 OpenReview portal. Prepare an anonymous paper of 8–11 pages, excluding references, in PMLR format. Use the EAIM Overleaf template or download the template (ZIP). The PMLR volume number in the template will be provided upon acceptance. Please read the submission instructions and important dates before submitting. | Are appendices allowed, and can they exceed the page limit? | Appendices are discouraged for the initial submission. If essential, submit them separately as supplementary material in a single ZIP file. The submitted paper must remain within the 11-page limit, excluding references."
+            "excerpt": "AAAI-27 ↗ | Submission deadline extended: Friday, 13 November 2026, 23:59 AoE (UTC−12). View important dates | 2nd EAIM workshop · AAAI-27 | Emerging AI | Montréal, Canada · February 2027 | Call for papers ↗Important dates ↓ | HUMAN × AIEAIM / 02 | A space for research. | 03 / Key milestones | Important dates | The EAIM submission and review timeline. | Paper submission deadline 23:59 AoE (UTC−12) | 6 November 2026Extended to 13 November 2026 | Review period | After 13 November 2026 | Acceptance notifications | By 2 December 2026 | Camera-ready deadline Exact date TBD | January 2027 | AAAI-27 workshop programme Exact EAIM day to be announced | How do I register for the workshop? | Registration is managed directly by AAAI. Please use the official AAAI-27 registration page for registration options, fees and deadlines. | The EAIM organisers do not control registration, prices, payments or refunds, and cannot make exceptions to AAAI’s registration policies. Please direct these questions to AAAI registration at aaaireg@aaai.org. | Do I need to register for the main conference as well? | Where do I submit, and what format should I use? | Submit through the EAIM 2027 OpenReview portal. Prepare an anonymous paper of 8–11 pages, excluding references, in PMLR format. Use the EAIM Overleaf template or download the template (ZIP). The PMLR volume number in the template will be provided upo"
           }
         ]
-      }
+      },
+      "history": [
+        {
+          "verifiedOn": "2026-11-06",
+          "supersededOn": "2026-11-14",
+          "values": {
+            "submission": "2026-11-06",
+            "notification": "2026-12-02",
+            "submissionTime": "23:59",
+            "submissionZone": "AoE (UTC−12)",
+            "notificationTime": "",
+            "notificationZone": "Unknown",
+            "notificationQualifier": "By"
+          },
+          "source": "https://amaai-lab.github.io/EAIM2027/",
+          "reason": "The current workshop source confirms a changed timetable."
+        }
+      ],
+      "officialOrder": 16
     },
     {
       "id": 16,
@@ -815,21 +903,22 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://caleai.github.io/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Call for Papers | Important Dates | Program | Speakers | February 22, 23, 2027 | Submission deadline | November 20, 2026 | Call for Papers | Critical milestones | Important Dates | Workshop CFP released | October 2, 2026 | Paper submission deadline | November 20, 2026 | Author notification | December 2, 2026 | Camera-ready | Submission | Paper submission deadline: November 20, 2026 | Submit via | Submit Paper"
+            "excerpt": "Call for Papers | Important Dates | Program | Speakers | February 22, 23, 2027 | Submission deadline | November 20, 2026 | Call for Papers | Critical milestones | Important Dates | Workshop CFP released | October 2, 2026 | Paper submission deadline | November 20, 2026 | Author notification | December 2, 2026 | Camera-ready | February 22, 23, 2027 | Deadlines use the AAAI-relevant timezone if later confirmed. | Workshop structure | Workshop Format | Submission | Paper submission deadline: November 20, 2026 | Submit via | Submit Paper"
           }
         ]
-      }
+      },
+      "officialOrder": 17
     },
     {
       "id": 17,
@@ -850,21 +939,22 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://finfm.finhorizons.org/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Call for papers | Submission deadline | 20 November 2026, 23:59 AoE | Read the call ↓ | FAQ for details | Official submission portal. Submit your paper | through the FinFM venue on OpenReview. An OpenReview account is | required. | non-archival, with no proceedings. | Important dates | Submissions open02 Oct 2026 | 00:00 AoE | Paper submission deadline20 Nov 2026 | 23:59 AoE | Author notification02 Dec 2026 | Workshop22 or 23 Feb 2027 | Final day to be confirmed | When | Between the submission deadline on 20 November and author | notification on 2 December 2026 | Selection"
+            "excerpt": "Call for papers | Submission deadline | 20 November 2026, 23:59 AoE | Read the call ↓ | 01The workshop | non-archival, with no proceedings. | Important dates | Submissions open02 Oct 2026 | 00:00 AoE | Paper submission deadline20 Nov 2026 | 23:59 AoE | Author notification02 Dec 2026 | Workshop22 or 23 Feb 2027 | Final day to be confirmed | When | Between the submission deadline on 20 November and author | notification on 2 December 2026 | Selection | The organizers review each applicant's publications before"
           }
         ]
-      }
+      },
+      "officialOrder": 18
     },
     {
       "id": 18,
@@ -887,7 +977,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -908,17 +998,18 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://gsr-vlm.org/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Every accepted paper will be presented as a poster. Selected papers will also receive an oral presentation slot. | Important dates | All dates are in Anywhere on Earth (AoE, UTC−12). | Submissions open | Oct 12, 2026 | Submission deadline | Nov 19, 2026 | Final notification"
+            "excerpt": "Every accepted paper will be presented as a poster. Selected papers will also receive an oral presentation slot. | Important dates | All dates are in Anywhere on Earth (AoE, UTC−12). | Submissions open | Oct 12, 2026 | Submission deadline | Nov 19, 2026 | Final notification | Dec 1, 2026 | Workshop day"
           }
         ]
-      }
+      },
+      "officialOrder": 19
     },
     {
       "id": 19,
@@ -943,18 +1034,18 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://human-ai-workshop-7p350s.webnode.page/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Keynote and Invited Speakers | Paper Submission | Schedule | Call for Papers | Through this lens, the workshop aims to connect researchers interested in trustworthy interactive systems, multi-agent coordination, human-centered design, and socio-technical perspectives on AI deployment. As the program, talks, and resources are finalized, additional information will appear across this website. Please continue through the page to learn more about the workshop’s themes, example use cases, and how the broader research agenda on human-AI collaboration is evolving within the AAAI 2027 community. | Important Dates | Workshop Submissions Due: Friday, Nov 20, 2026 AoE (Anywhere on Earth) | Notifications Sent to Authors (by organizers): Wednesday, Dec 2, 2026 | AAAI 2027 Registration is OPEN"
+            "excerpt": "Keynote and Invited Speakers | Paper Submission | Schedule | Call for Papers | Through this lens, the workshop aims to connect researchers interested in trustworthy interactive systems, multi-agent coordination, human-centered design, and socio-technical perspectives on AI deployment. As the program, talks, and resources are finalized, additional information will appear across this website. Please continue through the page to learn more about the workshop’s themes, example use cases, and how the broader research agenda on human-AI collaboration is evolving within the AAAI 2027 community. | Important Dates | Workshop Submissions Due: Friday, Nov 20, 2026 AoE (Anywhere on Earth) | Notifications Sent to Authors (by organizers): Wednesday, Dec 2, 2026 | AAAI 2027 Registration is OPEN | November 16:  AAAI 2027 Workshop Registration Opens | December 15, 2026: Early Registration Ends | January 10, 2027: Deadline for Registration Refund Requests and Standard Registration Ends | Workshop Date: February 16-23, 2027 (TBC) | Organizing Team"
           },
           {
             "url": "https://human-ai-workshop-7p350s.webnode.page/call-for-papers/",
@@ -980,7 +1071,8 @@
           "source": "https://human-ai-workshop-7p350s.webnode.page/",
           "reason": "Updated after a new full check of the current workshop pages; missing cutoff details are not inferred."
         }
-      ]
+      ],
+      "officialOrder": 20
     },
     {
       "id": 20,
@@ -1003,7 +1095,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -1024,7 +1116,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1040,7 +1132,8 @@
             "excerpt": "Organizers and people with a personal conflict of interest with an organizer do not submit papers. Conflicts of interest are enforced in OpenReview. | Important dates | October 2, 2026Call for papers released | November 20, 2026Submission deadline | December 2, 2026Notification of acceptance | January 15, 2027Talk titles and schedule posted | February 22 or 23, 2027Workshop at AAAI-27, Montréal (one day, in person, exact day to be confirmed)"
           }
         ]
-      }
+      },
+      "officialOrder": 21
     },
     {
       "id": 21,
@@ -1074,11 +1167,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1088,7 +1181,8 @@
             "excerpt": "Please note that the author information you enter in the CMT submission form is not shown to reviewers, so it should be filled in as usual. | Important Dates | Submissions due: November 20, 2026 (AoE) | Fast-track submissions due: December 3, 2026 (AoE) | Notification: December 2, 2026 (fast track: December 9, 2026) | Camera-ready: mid-January 2027 | Workshop: February 22 or 23, 2027"
           }
         ]
-      }
+      },
+      "officialOrder": 22
     },
     {
       "id": 22,
@@ -1111,21 +1205,22 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://llm-agents-under-threat.github.io/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "◇Full-day, in personMontréal · Canada | Submission deadlineNovember 20, 2026Anywhere on Earth | Submit on OpenReview → | InputsToolsMemoryActions | Responsible deployment and disclosure. Operational lessons, deployment safeguards, defense limitations, vulnerability coordination, and responsible disclosure practices. | Important Dates | Submission deadline:November 20, 2026Anywhere on Earth | Acceptance notification:December 2, 2026Author notification | Workshop:February 22 or 23, 2027In person · Montréal | Submission Guidelines"
+            "excerpt": "◇Full-day, in personMontréal · Canada | Submission deadlineNovember 20, 2026Anywhere on Earth | Submit on OpenReview → | InputsToolsMemoryActions | Responsible deployment and disclosure. Operational lessons, deployment safeguards, defense limitations, vulnerability coordination, and responsible disclosure practices. | Important Dates | Submission deadline:November 20, 2026Anywhere on Earth | Acceptance notification:December 2, 2026Author notification | Workshop:February 22 or 23, 2027In person · Montréal | Submission Guidelines | Responsible disclosure: Responsible disclosure is expected for work involving real systems or vulnerabilities. | Authors should create their OpenReview profiles well before the deadline. New profiles created without an institutional email may require moderation; profiles created with an institutional email are activated automatically. | Schedule | All times are local."
           }
         ]
-      }
+      },
+      "officialOrder": 23
     },
     {
       "id": 23,
@@ -1146,21 +1241,22 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://making-sense-workshop.github.io/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Key dates | Paper submission deadline20 Nov 202623:59 AoE | Author notification2 Dec 2026 | Camera-ready deadlineTo be announced | Workshop at AAAI-2722 or 23 Feb 2027Final day to be confirmed | When | Between the submission deadline on 20 November and author notification on 2 December 2026 | Selection | The organizers confirm appointments based on expertise. Confirmed members will be listed here."
+            "excerpt": "Key dates | Paper submission deadline20 Nov 202623:59 AoE | Author notification2 Dec 2026 | Camera-ready deadlineTo be announced | Workshop at AAAI-2722 or 23 Feb 2027Final day to be confirmed | Submissions are open | Submit through the Making Sense venue on OpenReview. | An OpenReview account is required. New accounts can take a few days to be activated, so please register early. Submissions close on 20 November 2026 at 23:59 AoE (21 November, 11:59 UTC). | Submit via OpenReview ↗ | Frequently asked questions | When | Between the submission deadline on 20 November and author notification on 2 December 2026 | Selection | The organizers confirm appointments based on expertise. Confirmed members will be listed here."
           }
         ]
-      }
+      },
+      "officialOrder": 24
     },
     {
       "id": 24,
@@ -1184,7 +1280,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "history": [
@@ -1205,17 +1301,18 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://robust-ai-2027.github.io/aaai27_workshop/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "With a central focus on multi-objective and multi-task optimization, we welcome theory, algorithms, applications, and evaluations, including related work that motivates new optimization formulations. Contributions from early-career researchers and across disciplines are particularly encouraged. | Important Dates | Paper Submission Deadline: November 20, 2026 (AoE) | Notification of Acceptance: December 2, 2026 (AoE) | Camera-Ready Deadline: Jan 2, 2027 (AoE) | Workshop Date: Feb 22–23, 2027 (exact day TBC)"
+            "excerpt": "With a central focus on multi-objective and multi-task optimization, we welcome theory, algorithms, applications, and evaluations, including related work that motivates new optimization formulations. Contributions from early-career researchers and across disciplines are particularly encouraged. | Important Dates | Paper Submission Deadline: November 20, 2026 (AoE) | Notification of Acceptance: December 2, 2026 (AoE) | Camera-Ready Deadline: Jan 2, 2027 (AoE) | Workshop Date: Feb 22–23, 2027 (exact day TBC) | Speakers"
           }
         ]
-      }
+      },
+      "officialOrder": 25
     },
     {
       "id": 25,
@@ -1238,21 +1335,22 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://neuroai-multimodal-workshop.github.io/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Submission Guidelines | Paper submission deadline: November 20, 2026 | Decision notification: December 5, 2026 | Early registration deadline: December 15, 2026 | Standard registration deadline: Janurary 10, 2027 | References and Supplementary: No page limit | The paper submission portal is now opened on OpenReview. Please follow the AAAI-27 (double-blind) submission instructions, see the AAAI-27 author kit for further details. | For examples of work presented at the previous edition, please visit | the proceedings of the first workshop. | Submission Guidelines | Paper submission deadline: November 20, 2026 | Decision notification: December 5, 2026 | Early registration deadline: December 15, 2026 | Standard registration deadline: Janurary 10, 2027 | References and Supplementary: No page limit | The paper submission portal is now opened on OpenReview. Please follow the AAAI-27 (double-blind) submission instructions, see the AAAI-27 author kit for further details. | For examples of work presented at the previous edition, please visit | the proceedings of the first workshop. | We invite submissions (authors' identiy anonymized for double-blind review) of full papers or abstracts that describe new research, work in progress, or position statements on relevant topics. | The full paper submissions should be 8 pages maximum, excluding references, and the abstract submissions should be "
+            "excerpt": "Submission Guidelines | Paper submission deadline: November 20, 2026 | Decision notification: December 5, 2026 | Early registration deadline: December 15, 2026 | Standard registration deadline: Janurary 10, 2027 | Late registration: After Janurary 10, 2027 | Short papers: Up to 4 pages (non-archival, excluding references) | References and Supplementary: No page limit | The paper submission portal is now opened on OpenReview. Please follow the AAAI-27 (double-blind) submission instructions, see the AAAI-27 author kit for further details. | For examples of work presented at the previous edition, please visit | the proceedings of the first workshop. | Submission Guidelines | Paper submission deadline: November 20, 2026 | Decision notification: December 5, 2026 | Early registration deadline: December 15, 2026 | Standard registration deadline: Janurary 10, 2027 | Late registration: After Janurary 10, 2027 | Short papers: Up to 4 pages (non-archival, excluding references) | References and Supplementary: No page limit | The paper submission portal is now opened on OpenReview. Please follow the AAAI-27 (double-blind) submission instructions, see the AAAI-27 author kit for further details. | For examples of work presented at the previous edition, please visit | the proceedings of the first workshop. | We invite submissions (authors' identiy anonymized for double-blind review) of full pa"
           }
         ]
-      }
+      },
+      "officialOrder": 26
     },
     {
       "id": 26,
@@ -1281,7 +1379,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1302,17 +1400,18 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed_with_source_mismatch",
         "sources": [
           {
             "url": "https://llm-symbol.github.io/NeSy-FM-AAAI2027/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "WHEREMontréal, CanadaIn person · AAAI-27 | SUBMISSIONS DUENovember 30, 2026Anywhere on Earth (UTC−12) | 01 / MOTIVATION | Why NeSy-FM? | OpenReview submission portal ↗ | Submission deadlineNov 30, 2026 | (Please refer to this website for the latest information and updates.) | NotificationDec 10, 2026 | 04 / MARK YOUR CALENDAR | Important dates | All deadlines are Anywhere on Earth (UTC−12), following the AAAI-27 workshop timetable. | 30NOV 2026 | Workshop submissions due | Submit through the workshop OpenReview portal. | 10DEC 2026 | Author notifications | Decisions sent to submitting authors. | 22OR 23 FEB 2027"
+            "excerpt": "WHEREMontréal, CanadaIn person · AAAI-27 | SUBMISSIONS DUENovember 30, 2026Anywhere on Earth (UTC−12) | 01 / MOTIVATION | Why NeSy-FM? | OpenReview submission portal ↗ | Submission deadlineNov 30, 2026 | (Please refer to this website for the latest information and updates.) | NotificationDec 10, 2026 | PublicationNon-archival | Deadlines follow AAAI's Anywhere on Earth (UTC−12) convention. | 04 / MARK YOUR CALENDAR | Important dates | All deadlines are Anywhere on Earth (UTC−12), following the AAAI-27 workshop timetable. | 30NOV 2026 | Workshop submissions due | Submit through the workshop OpenReview portal. | 10DEC 2026 | Author notifications | Decisions sent to submitting authors. | 22OR 23 FEB 2027"
           }
         ]
-      }
+      },
+      "officialOrder": 27
     },
     {
       "id": 27,
@@ -1340,7 +1439,7 @@
       "exception": false,
       "incomplete": true,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -1361,23 +1460,24 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "conflicting_workshop_sources",
         "sources": [
           {
             "url": "https://sites.google.com/view/orchestrating-human-ai-work/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Safety, cybersecurity, governance, traceability, semantic drift, resilience, and operation in high-stakes environments. | Important Dates | November 20, 2026 | Submissions Due | Workshop submissions due to organizers. | December 2, 2026 | Author Notification | Acceptance and rejection notifications sent to participants. | February 22–23, 2027"
+            "excerpt": "Safety, cybersecurity, governance, traceability, semantic drift, resilience, and operation in high-stakes environments. | Important Dates | November 20, 2026 | Submissions Due | Workshop submissions due to organizers. | December 2, 2026 | Author Notification | Acceptance and rejection notifications sent to participants. | February 22–23, 2027 | AAAI-27 Workshops"
           },
           {
             "url": "https://sites.google.com/view/orchestrating-human-ai-work/cfp",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "AAAI conference style (2-3 pages; please delete AAAI copyright): https://aaai.org/wp-content/uploads/2025/07/AuthorKit26-1.zip or open format. Proceedings by Elsevier, Entropy and/or Frontiers in Physics. | Important Dates | October 15, 2026: Submissions open | November 22, 2026: Paper submissions to organizers | December 2, 2026: Notifications sent to authors | Tuesday, December 15, 2026: AAAI-27 Early Registration Deadline (11:59 EST)"
+            "excerpt": "AAAI conference style (2-3 pages; please delete AAAI copyright): https://aaai.org/wp-content/uploads/2025/07/AuthorKit26-1.zip or open format. Proceedings by Elsevier, Entropy and/or Frontiers in Physics. | Important Dates | October 15, 2026: Submissions open | November 22, 2026: Paper submissions to organizers | December 2, 2026: Notifications sent to authors | Tuesday, December 15, 2026: AAAI-27 Early Registration Deadline (11:59 EST) | February 22/23, 2027 (Tuesday): Workshop #39 at AAAI-27 (Palais des congrès, Montréal, Québec) | Google Sites"
           }
         ]
-      }
+      },
+      "officialOrder": 28
     },
     {
       "id": 28,
@@ -1401,7 +1501,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1422,7 +1522,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1430,6 +1530,47 @@
             "method": "HTTP",
             "httpStatus": 200,
             "excerpt": "Key Dates | Submission Deadline: November 20, 2026 | Notification of Acceptance: December 2, 2026 | Workshop: February 22/23, 2027 | All deadlines are “anywhere on earth” (UTC-12). | Submission Format | We solicit two types of papers:"
+          }
+        ]
+      },
+      "officialOrder": 29
+    },
+    {
+      "id": 47,
+      "title": "Second AAAI Workshop on AI for Scientific Research (AI4Research)",
+      "website": "https://ai4research-workshop.github.io/",
+      "source": "https://ai4research-workshop.github.io/",
+      "basis": "Workshop CFP",
+      "officialDates": [
+        "Submission deadline: December 10, 2026 at 23:59 AoE",
+        "Acceptance notification: January 8, 2027"
+      ],
+      "submission": "2026-12-10",
+      "notification": "2027-01-08",
+      "submissionTime": "23:59",
+      "submissionZone": "AoE (UTC−12)",
+      "notificationTime": "",
+      "notificationZone": "Unknown",
+      "notificationQualifier": "",
+      "notes": [
+        "The current workshop CFP confirms December 10, 2026 at 23:59 AoE for submission and January 8, 2027 for notification. Notification cutoff and timezone remain Unknown."
+      ],
+      "flags": [],
+      "fastTracks": [],
+      "officialOrder": 30,
+      "checked": "2026-11-14",
+      "exception": true,
+      "incomplete": false,
+      "attention": true,
+      "verification": {
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
+        "status": "confirmed",
+        "sources": [
+          {
+            "url": "https://ai4research-workshop.github.io/",
+            "method": "HTTP",
+            "httpStatus": 200,
+            "excerpt": "Key Dates | Submission Deadline: December 10, 2026, 23:59 Anywhere on Earth (AoE, UTC−12) | Notification of Acceptance: January 8, 2027 | The submission deadline follows the Anywhere on Earth (AoE) timezone. | Submission Format | All papers must be submitted in PDF format, using the AAAI-27 author kit. We welcome two types of papers: | Submission Site | The workshop will use OpenReview for paper submission and review. The submission link is https://openreview.net/group?id=AAAI.org/2027/Workshop/AI4Research. | The review process will be single-blinded, and we welcome accepted and published papers. The contributions will be non-archival and only will be hosted on our workshop website. There will be one best paper award for accepted papers with outstanding quality. | Invited Speakers"
           }
         ]
       }
@@ -1455,18 +1596,18 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://frontier-ir-workshop.github.io/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Key Dates | Submission Deadline: November 20, 2026 (AoE) | Notification of Acceptance: December 2, 2026 (AoE) | AAAI-27 Early Registration Deadline: December 15, 2026 (11:59 PM Eastern Time) | Workshop Date: February 22 or 23, 2027 (AAAI-27 workshop program, exact day TBA), Montréal, Canada | Submission Site | As in the first edition, the workshop uses OpenReview for paper submission and review. The submission link is https://openreview.net/group?id=AAAI.org/2027/Workshop/FrontierIR. | Submissions will undergo double-blind review, with at least three reviews per paper. Accepted papers will be presented as talks or posters. The contributions are non-archival and will be hosted on the workshop website. A best paper award will be presented at the closing session. | Organizers"
+            "excerpt": "Key Dates | Submission Deadline: November 20, 2026 (AoE) | Notification of Acceptance: December 2, 2026 (AoE) | AAAI-27 Early Registration Deadline: December 15, 2026 (11:59 PM Eastern Time) | Workshop Date: February 22 or 23, 2027 (AAAI-27 workshop program, exact day TBA), Montréal, Canada | Submission and notification deadlines follow the Anywhere on Earth (AoE) timezone. | Submission Format | All papers must be submitted in PDF format, using the AAAI-27 author kit. We welcome research, position, benchmark, resource, and work-in-progress papers of two types: | Submission Site | As in the first edition, the workshop uses OpenReview for paper submission and review. The submission link is https://openreview.net/group?id=AAAI.org/2027/Workshop/FrontierIR. | Submissions will undergo double-blind review, with at least three reviews per paper. Accepted papers will be presented as talks or posters. The contributions are non-archival and will be hosted on the workshop website. A best paper award will be presented at the closing session. | Organizers"
           }
         ]
       },
@@ -1486,7 +1627,8 @@
           "source": "https://frontier-ir-workshop.github.io/",
           "reason": "Updated after a new full check of the current workshop pages; missing cutoff details are not inferred."
         }
-      ]
+      ],
+      "officialOrder": 31
     },
     {
       "id": 30,
@@ -1510,7 +1652,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1531,17 +1673,18 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://spf-llm-2026.github.io/spf-llm-workshop.github.io/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Key Deadlines | Important Dates | All deadlines are per the official AAAI-27 workshop calendar and are Anywhere on Earth (UTC-12). Dates subject to change — check back for updates. | Nov 20, 2026 | Paper submissions due to organizers | Dec 2, 2026 | Notifications sent to authors | What should I do if my OpenReview profile activation is delayed? | Profile verification is managed by OpenReview, not by us. New profiles or those using personal email addresses can take several days for manual moderation. Create and verify your OpenReview profile at least 2 weeks before the submission deadline. If you need a vouch, ask a co-author, supervisor, or colleague with an active institutional account — workshop organizers cannot vouch for authors due to COI regulations. | Can I get a deadline extension if my profile is still pending activation? | No. Organizers cannot grant individual extensions, open late submission windows, or bypass OpenReview verification. Submissions must be fully completed before the deadline (AoE). | OpenReview Portal ↗ | Submit your paper via OpenReview (deadline: Nov 20, 2026 AoE) | AAAI-27 | aaai.org/aaai-27 ↗"
+            "excerpt": "Accountability frameworks; human oversight in agentic pipelines; legal and ethical considerations; responsible disclosure for LLM systems. | Key Deadlines | Important Dates | All deadlines are per the official AAAI-27 workshop calendar and are Anywhere on Earth (UTC-12). Dates subject to change — check back for updates. | Nov 20, 2026 | Paper submissions due to organizers | Dec 2, 2026 | Notifications sent to authors | Feb 22–23, 2027 | AAAI-27 Workshop Program — Montréal, Canada | Workshop Schedule | The full schedule will be announced after notifications. The following is a tentative structure for the full one-day workshop. | 09:00 – 10:00 | Keynote Opening Remarks & Keynote | What should I do if my OpenReview profile activation is delayed? | Profile verification is managed by OpenReview, not by us. New profiles or those using personal email addresses can take several days for manual moderation. Create and verify your OpenReview profile at least 2 weeks before the submission deadline. If you need a vouch, ask a co-author, supervisor, or colleague with an active institutional account — workshop organizers cannot vouch for authors due to COI regulations. | Can I get a deadline extension if my profile is still pending activation? | No. Organizers cannot grant individual extensions, open late submission windows, or bypass OpenReview verification. Submissions must be fully complet"
           }
         ]
-      }
+      },
+      "officialOrder": 32
     },
     {
       "id": 31,
@@ -1565,11 +1708,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1579,7 +1722,8 @@
             "excerpt": "The workshop is organized by Niclas Boehmer, Vincent Conitzer, Jobst Heitzig, and Wesley Holliday | Submission deadline: November 20, 2026 (AoE). See below for submission requirements. | Notification: December 2, 2026 | Submission Site: https://openreview.net/group?id=AAAI.org/2027/Workshop/SC4AI | Description of Workshop"
           }
         ]
-      }
+      },
+      "officialOrder": 33
     },
     {
       "id": 32,
@@ -1602,18 +1746,18 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://www.safeworkshop.org/aaai-2027/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "All submissions undergo double-blind peer review on OpenReview, following the AAAI Code of Professional Ethics and Conduct and the AAAI Publications Policies and Guidelines. A dedicated AI-Content Integrity Area Chair screens submissions for machine-generated content; flagged papers receive additional human review rather than automatic rejection. | Important Dates | Submission Deadline | November 4, 2026 at 11:59pm ET | (conversion tool) | Notification of Acceptance | December 2, 2026 | Camera-ready Deadline"
+            "excerpt": "All submissions undergo double-blind peer review on OpenReview, following the AAAI Code of Professional Ethics and Conduct and the AAAI Publications Policies and Guidelines. A dedicated AI-Content Integrity Area Chair screens submissions for machine-generated content; flagged papers receive additional human review rather than automatic rejection. | Important Dates | Submission Deadline | November 4, 2026 at 11:59pm ET | (conversion tool) | Notification of Acceptance | December 2, 2026 | Camera-ready Deadline | January 22, 2027 at 11:59pm ET | (conversion tool)"
           }
         ]
       },
@@ -1633,7 +1777,8 @@
           "source": "https://www.safeworkshop.org/aaai-2027/",
           "reason": "Updated after a new full check of the current workshop pages; missing cutoff details are not inferred."
         }
-      ]
+      ],
+      "officialOrder": 34
     },
     {
       "id": 33,
@@ -1656,7 +1801,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "history": [
@@ -1692,17 +1837,18 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://uconn-dsis.github.io/ai4ts-aaai2027/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Key Dates | Workshop Paper Submission Due Date | November 20, 202623:59 AoE | Notification of Paper Acceptance | December 2, 2026 | AAAI AI4TS Workshop Date"
+            "excerpt": "PrepareUp to 7 pages excluding references, AAAI 2027 paper format (AAAI-27 Author Kit); optional appendix after references | SubmitVia AAAI 2027 Workshop AI4TS on OpenReview by November 20, 2026, 23:59 AoE | Double-blind reviewAuthor identity should not be revealed to the reviewers | Present at AI4TSPosters for all accepted papers; selected papers as 10-minute contributed talks; listed on the website | Key Dates | Workshop Paper Submission Due Date | November 20, 202623:59 AoE | Notification of Paper Acceptance | December 2, 2026 | AAAI AI4TS Workshop Date"
           }
         ]
-      }
+      },
+      "officialOrder": 35
     },
     {
       "id": 34,
@@ -1723,21 +1869,22 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://ismart.ece.mcgill.ca/astad4/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Attendance is open to all registered AAAI-27 participants, including researchers, students, and industry professionals. | Important Dates | Paper submission deadline: November 20, 2026 | Author notification: December 2, 2026 | Camera-ready deadline: To be announced | Workshop Date: February 22–23, 2027"
+            "excerpt": "Attendance is open to all registered AAAI-27 participants, including researchers, students, and industry professionals. | Important Dates | Paper submission deadline: November 20, 2026 | Author notification: December 2, 2026 | Camera-ready deadline: To be announced | Workshop Date: February 22–23, 2027 | Workshop Location: Montréal, Canada"
           }
         ]
-      }
+      },
+      "officialOrder": 36
     },
     {
       "id": 35,
@@ -1763,11 +1910,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1794,7 +1941,8 @@
           "source": "https://w3phiai2027.w3phi.com/",
           "reason": "Updated after a new full check of the current workshop pages; missing cutoff details are not inferred."
         }
-      ]
+      ],
+      "officialOrder": 37
     },
     {
       "id": 36,
@@ -1818,21 +1966,22 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://wo-mapf.github.io/aaai27/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "systems. | Important Dates | Find submission, notification, registration, camera-ready, and workshop | dates here. | Oct. 2, 2026 | Paper Submission Deadline | Nov. 20, 2026 | Notifications Sent to Authors"
+            "excerpt": "systems. | Important Dates | Find submission, notification, registration, camera-ready, and workshop | dates here. | Check Call for Papers | Oct. 2, 2026 | Paper Submission Deadline | Nov. 20, 2026 | Notifications Sent to Authors | Dec. 2, 2026 | AAAI-27 Early Registration Deadline | To be announced | Camera Ready Deadline for Submitted Papers | To be announced | AAAI-27 Workshops"
           }
         ]
-      }
+      },
+      "officialOrder": 38
     },
     {
       "id": 37,
@@ -1860,7 +2009,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1881,17 +2030,18 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://med-wm.github.io/aaai27-mwm/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "October 16, 2026 | Paper submissions due to organizers | November 15, 2026 | Acceptance notifications | February 22 or 23, 2027 (half-day; exact date and session TBA), Palais des congrès, Montréal, Canada | All deadlines are Anywhere on Earth (UTC-12). | Submission Format | All papers must be submitted as a single PDF in the AAAI two-column format (maximum 50 MB), using the AAAI author kit. We welcome two types of submissions: | Submission Site | Submissions are handled via OpenReview and are now open: Submit on OpenReview (submission deadline: November 15, 2026, Anywhere on Earth). | All authors must have an OpenReview profile before submitting. New profiles created without an institutional email address go through a moderation process, so please register early. | Author FAQ"
+            "excerpt": "October 16, 2026 | Paper submissions due to organizers | November 15, 2026 | Acceptance notifications | December 2, 2026 | Final version due | February 22 or 23, 2027 (half-day; exact date and session TBA), Palais des congrès, Montréal, Canada | All deadlines are Anywhere on Earth (UTC-12). | Submission Format | All papers must be submitted as a single PDF in the AAAI two-column format (maximum 50 MB), using the AAAI author kit. We welcome two types of submissions: | Submission Site | Submissions are handled via OpenReview and are now open: Submit on OpenReview (submission deadline: November 15, 2026, Anywhere on Earth). | All authors must have an OpenReview profile before submitting. New profiles created without an institutional email address go through a moderation process, so please register early. | Author FAQ"
           }
         ]
-      }
+      },
+      "officialOrder": 39
     },
     {
       "id": 38,
@@ -1918,7 +2068,7 @@
       "exception": true,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "23:59",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -1939,7 +2089,7 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1955,7 +2105,8 @@
             "excerpt": "NeusymBridge Workshop @AAAI 2027 (abbreviated as NeusymBridge below) invites the submission of long and short papers featuring substantial, original, and unpublished research on LLMs and Knowledge Graph reasoning. | Important Dates | All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”) | Submission Deadline: December 27, 2026 | Notification of Acceptance: January 15, 2027 | Camera-Ready papers due: Feb 12, 2027 | Workshop Day:  Feb 22 or 23, 2027 | Among the accepted papers, two will be selected for the Best Paper Award and will be recognized at the workshop. | Paper Submission Information | Please use the template provided by AAAI 2027: AAAI 2027 PAPER TYPES AND FORMATS. | Paper Submission Site | Papers should be submitted through OpenView: Submission2NeusymBridge@AAAI2027. | Each paper will receive a minimum of three reviews. The review process will be double-blind. Reviewers will not see authors, authors will not see reviewers. Reviews and submissions will not be made publicly visible."
           }
         ]
-      }
+      },
+      "officialOrder": 40
     },
     {
       "id": 39,
@@ -1976,11 +2127,11 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
@@ -1990,7 +2141,8 @@
             "excerpt": "OpenReview submission site: TBA | Important Dates | Paper submission: November 20, 2026 (AOE) | Notification: December 2, 2026 (AOE) | Camera-ready: TBA | AAAI-27 Workshop Program: February 22–23, 2027"
           }
         ]
-      }
+      },
+      "officialOrder": 41
     },
     {
       "id": 40,
@@ -2013,11 +2165,11 @@
       "exception": false,
       "incomplete": true,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "dates_unpublished",
         "sources": [
           {
@@ -2027,7 +2179,8 @@
             "excerpt": "Authors of accepted papers are invited to present. Participation is open to all interested individuals registered for the workshop through AAAI-27. No specific attendance cap is planned, subject to venue capacity. We expect 40-60 attendees. | Important Dates | 20 November 2026: Paper Submission | 22 or 23 February 2027: Workshop Program | Workshop Committee"
           }
         ]
-      }
+      },
+      "officialOrder": 42
     },
     {
       "id": 41,
@@ -2035,39 +2188,39 @@
       "website": "https://qcai.uma.es/2027/",
       "officialLine": 2177,
       "officialDates": [],
-      "submission": "2026-11-20",
-      "notification": "2026-12-02",
+      "submission": null,
+      "notification": null,
       "submissionTime": "",
-      "submissionZone": "AoE (UTC−12)",
+      "submissionZone": "Unknown",
       "notificationQualifier": "",
       "basis": "Workshop website and submission instructions",
       "source": "https://qcai.uma.es/2027/",
       "notes": [
-        "The workshop website has recovered from its temporary outage. Its current AAAI-27 homepage explicitly confirms November 20, 2026 for submission and December 2, 2026 for notification, both AoE. The submission instructions independently confirm the submission date and UTC-12 timezone. Specific cutoff times remain Unknown because neither page states them."
+        "Both workshop pages failed HTTPS verification because the site certificate expired. Current dates and cutoff details are Unknown. The last verified dates remain in the dataset history."
       ],
       "flags": [],
       "fastTracks": [],
       "exception": false,
-      "incomplete": false,
-      "attention": false,
-      "checked": "2026-11-06",
+      "incomplete": true,
+      "attention": true,
+      "checked": "2026-11-14",
       "notificationTime": "",
-      "notificationZone": "AoE (UTC−12)",
+      "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
-        "status": "confirmed",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
+        "status": "source_unavailable",
         "sources": [
           {
             "url": "https://qcai.uma.es/2027/",
             "method": "HTTP",
-            "httpStatus": 200,
-            "excerpt": "Format of Workshop | It will be a half-day workshop. We plan to have paper presentations. We may invite additional speakers if the number of paper submissions is low. | Attendance | The workshop is open to all conference attendees. | Publication: Accepted papers will be published in a CCIS Springer volume. | Important Deadlines | Submission: 20 November, 2026 (AoE) | Notification: 2 December, 2026 (AoE) | Camera Ready: 14 December, 2026 (AoE) | Workshop Chairs"
+            "httpStatus": null,
+            "excerpt": "HTTPS certificate verification failed because the certificate expired."
           },
           {
             "url": "https://qcai.uma.es/2027/submission/",
             "method": "HTTP",
-            "httpStatus": 200,
-            "excerpt": "Paper Submission Instructions – Third International Workshop on Quantum Computing and Artificial Intelligence (QC+AI 2027) | QC+AI @ AAAI 2027 | Home | All Editions | Paper Submission Instructions | Paper submission | The Workshop proceedings will be published in the Communications in Computer and Information Science (CCIS) series by Springer Nature. Authors should consult Springer’s authors’ guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. | The page limits are 8 pages for short papers and 16 pages for long papers, including references. | Submit your paper using Easychair to https://easychair.org/conferences?conf=qcai2027 by or before November 20, 2026 (Anywhere on Earth, UTC-12) | Camera-ready instructions for authors of accepted papers | When preparing your camera-ready paper for the proceedings, please consider the reviewers’ comments carefully. Please also take into account that you should obtain permissions for any material you want to reuse. Refer to the Springer Nature Third-Party Permissions for further information"
+            "httpStatus": null,
+            "excerpt": "HTTPS certificate verification failed because the certificate expired."
           }
         ]
       },
@@ -2101,8 +2254,24 @@
           },
           "source": "https://qcai.uma.es/2027/",
           "reason": "Workshop content recovered; current submission and notification dates are explicitly verified again. The intervening Unknown snapshot is preserved as history."
+        },
+        {
+          "verifiedOn": "2026-11-06",
+          "supersededOn": "2026-11-14",
+          "values": {
+            "submission": "2026-11-20",
+            "notification": "2026-12-02",
+            "submissionTime": "",
+            "submissionZone": "AoE (UTC−12)",
+            "notificationTime": "",
+            "notificationZone": "AoE (UTC−12)",
+            "notificationQualifier": ""
+          },
+          "source": "https://qcai.uma.es/2027/",
+          "reason": "Both workshop sources failed HTTPS certificate verification. The last verified values are retained in history."
         }
-      ]
+      ],
+      "officialOrder": 43
     },
     {
       "id": 42,
@@ -2126,21 +2295,22 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC-12)",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://trust4rsi-agent.github.io/AAAI2027/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Key Dates | Submission Deadline: November 20, 2026, AoE | Notification Date: December 2, 2026, AoE | Workshop Date: February 22–23, 2027 (one-day workshop; exact day TBA) | Deadlines are strict and will not be extended. All deadlines follow the Anywhere on Earth (AoE) timezone. | Submission Site | Submissions is managed via OpenReview. | Application Deadline: TBD | Notification of Results: TBD | 🎯 Priority Considerations | Preference will be given to:"
+            "excerpt": "Key Dates | Submission Deadline: November 20, 2026, AoE | Notification Date: December 2, 2026, AoE | Workshop Date: February 22–23, 2027 (one-day workshop; exact day TBA) | Deadlines are strict and will not be extended. All deadlines follow the Anywhere on Earth (AoE) timezone. | Submission Site | Submissions is managed via OpenReview. | 🗓️ Key Dates | Application Deadline: TBD | Notification of Results: TBD | 🎯 Priority Considerations | Preference will be given to:"
           }
         ]
-      }
+      },
+      "officialOrder": 44
     },
     {
       "id": 43,
@@ -2167,7 +2337,7 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "AoE (UTC−12)",
       "history": [
@@ -2203,17 +2373,18 @@
         }
       ],
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://loyalagents.github.io/aaai27/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Open now | Submit your paper by November 20, 2026. | We are seeking new scholarship on the topics above, including early results and new ideas. We welcome three categories: research papers (technical, empirical, or benchmarks), position papers, and law and policy contributions. | Submit on OpenReview → | All presentations are in person, so at least one author of each accepted paper must register for AAAI-27 and present in Montréal. | Important dates | Nov 20, 2026Papers due | Dec 2, 2026Notifications to authors | Feb 22 or 23, 2027Workshop in Montréal (day assigned by AAAI) | All deadlines are anywhere on earth (UTC-12). | 06 / Organizers | Organizing committee"
+            "excerpt": "All presentations are in person, so at least one author of each accepted paper must register for AAAI-27 and present in Montréal. | Important dates | Nov 20, 2026Papers due | Dec 2, 2026Notifications to authors | Jan 15, 2027Camera-ready due | Feb 22 or 23, 2027Workshop in Montréal (day assigned by AAAI) | All deadlines are anywhere on earth (UTC-12). | 06 / Organizers | Organizing committee"
           }
         ]
-      }
+      },
+      "officialOrder": 45
     },
     {
       "id": 44,
@@ -2241,18 +2412,18 @@
       "exception": false,
       "incomplete": false,
       "attention": true,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed_with_source_mismatch",
         "sources": [
           {
             "url": "https://multiagents.org/2027/",
             "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Montréal, Canada · co-located with AAAI-27 | Submit on OpenReview ↗Important dates | Palais des congrès de Montréal · AAAI-27 venue | Submissions dueNovember 20, 2026 · 23:59 AoE | –days | –hours | Timeline | Important dates | Oct 2, 2026Call for participation | Nov 20, 2026Paper submission deadline (23:59 AoE) | Dec 2, 2026Notification of acceptance | Feb 22–23, 2027Workshop, Montréal | Dates follow the schedule set by the AAAI-27 workshop chairs and may change. | Industry demos welcome. Presenters should prepare a recorded fallback. | Submit your paper on OpenReview ↗ | Team | Organizers"
+            "excerpt": "Montréal, Canada · co-located with AAAI-27 | Submit on OpenReview ↗Important dates | Palais des congrès de Montréal · AAAI-27 venue | Submissions dueNovember 20, 2026 · 23:59 AoE | –days | –hours | Timeline | Important dates | Oct 2, 2026Call for participation | Nov 20, 2026Paper submission deadline (23:59 AoE) | Dec 2, 2026Notification of acceptance | Feb 22–23, 2027Workshop, Montréal | Dates follow the schedule set by the AAAI-27 workshop chairs and may change."
           }
         ]
       },
@@ -2272,7 +2443,8 @@
           "source": "https://multiagents.org/2027/",
           "reason": "Updated after a new full check of the current workshop pages; missing cutoff details are not inferred."
         }
-      ]
+      ],
+      "officialOrder": 46
     },
     {
       "id": 45,
@@ -2296,29 +2468,39 @@
       "exception": false,
       "incomplete": false,
       "attention": false,
-      "checked": "2026-11-06",
+      "checked": "2026-11-14",
       "notificationTime": "",
       "notificationZone": "Unknown",
       "verification": {
-        "checkedAt": "2026-11-06T15:39:15.755703+00:00",
+        "checkedAt": "2026-11-14T15:29:34.766629+00:00",
         "status": "confirmed",
         "sources": [
           {
             "url": "https://agenticse-aaai.github.io/",
-            "method": "Rendered browser",
+            "method": "HTTP",
             "httpStatus": 200,
-            "excerpt": "Important Dates |  |  The submission deadline is 11:59 PM Anywhere on Earth (AoE). |  | PAPER SUBMISSION DEADLINE |  | 20 |  | AUTHOR NOTIFICATION |  | 02"
+            "excerpt": ""
+          },
+          {
+            "url": "https://agenticse-aaai.github.io/assets/index-Ds2k9DZR.js",
+            "method": "Published website data",
+            "httpStatus": 200,
+            "excerpt": "Paper submission deadline: November 20, 2026 · 11:59 PM · Anywhere on Earth | Author notification: December 2, 2026 · Acceptance decisions announced"
           }
         ]
-      }
+      },
+      "officialOrder": 47
     }
   ],
-  "refreshStatus": "completed",
+  "refreshStatus": "completed_with_unavailable_sources",
   "refreshSummary": {
-    "namedWorkshopsAttempted": 45,
-    "workshopSitesAvailable": 45,
-    "unavailableWorkshopIds": [],
-    "officialInventoryChanged": false,
-    "unavailableSourcePolicy": "Inaccessible workshop dates remain Unknown; reference dates never fill the main fields."
+    "namedWorkshopsAttempted": 47,
+    "workshopSitesAvailable": 46,
+    "unavailableWorkshopIds": [
+      41
+    ],
+    "officialInventoryChanged": true,
+    "officialInventoryNote": "The former program overview redirects to the detailed list. The list now contains 47 named workshops, matching the previous overview count.",
+    "unavailableSourcePolicy": "Inaccessible workshop dates remain Unknown. Reference dates never fill the main fields."
   }
 }
